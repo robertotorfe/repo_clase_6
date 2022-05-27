@@ -1,6 +1,8 @@
+# repo_clase_6
+Una nueva linea
+
+
 cambio de lineas 
 
-adsasdas
-asdadasd
-asdadas
-asdadasd
+
+solucion al conflicto
